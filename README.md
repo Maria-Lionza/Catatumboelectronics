@@ -11,8 +11,8 @@ complejos y evoluciones musicales dinámicas.
 
 Especificaciones Técnicas 
 
-● Desarrollo: C++, Python 
-● Entorno: VS Code, MSYS2 MinGW x64, Git 
+● Desarrollo: C++
+● Entorno: MSYS2 MinGW x64
 ● Capacidad: 32 steps máximos 
 ● Polifonía: 4 voces independientes 
 ● Presets (1): Culo e puya.vcvm 
