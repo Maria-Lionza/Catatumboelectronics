@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20" height="20" version="1.1" viewBox="0 0 5.292 5.292" xmlns="http://www.w3.org/2000/svg">
+ <path d="m5.067 2.654a2.4215 2.4215 0 1 1-4.843 0 2.4215 2.4215 0 0 1 4.843 0" fill="#191919" stroke="#adb2bd" stroke-width=".405"/>
+ <g fill="#fff" stroke="#fff" stroke-width=".987">
+  <path transform="matrix(.17742 0 0 -.11551 2.752 .31)" d="m0 0a2.643 2.643 0 0 1-1.196 0v-18.157h1.196z" fill-rule="evenodd"/>
+ </g>
+</svg>

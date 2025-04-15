@@ -1,0 +1,27 @@
+{
+  "slug": "Catatumbo",
+  "name": "Catatumbo",
+  "version": "2.1.1",
+  "license": "MIT",
+  "brand": "CATATUMBO electronics",
+  "author": "Kevin Diaz",
+  "authorEmail": "kevn.dz@gmail.com",
+  "authorUrl": "",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "",
+  "donateUrl": "",
+  "modules": [
+    {
+      "slug": "Puya",
+      "name": "Puya",
+      "description": "4-voice euclidean sequencer and rhythm necklace generator with dynamic display, per-voice parameters and accent engine",
+      "tags": [
+        "Euclidean",
+        "Clock modulator",
+        "Sequencer",
+        "Polyphonic"
+      ]
+    }
+  ]
+}

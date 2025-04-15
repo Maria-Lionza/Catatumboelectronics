@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="23.807" height="23.812" viewBox="0 0 6.299 6.3">
+    <defs>
+        <filter id="a" filterUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <filter id="b" filterUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+        <filter id="c" filterUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <path d="M.241 3.2a2.958 2.958 0 1 0 5.917.002 2.958 2.958 0 0 0-5.917-.001" stroke="#c6c6c6" stroke-width=".331"/>
+    <path d="M3.354.011C3.287.006 3.22 0 3.15 0c-.069 0-.138.006-.205.011v3.14h.41zm0 0" fill="#fff"/>
+</svg>

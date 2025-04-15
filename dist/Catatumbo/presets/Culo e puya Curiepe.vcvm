@@ -1,0 +1,86 @@
+{
+  "plugin": "Catatumbo",
+  "model": "Puya",
+  "version": "2.1.1",
+  "params": [
+    {
+      "value": 0.0,
+      "id": 0
+    },
+    {
+      "value": 0.13333334028720856,
+      "id": 1
+    },
+    {
+      "value": 0.83373475074768066,
+      "id": 2
+    },
+    {
+      "value": 1.0,
+      "id": 3
+    },
+    {
+      "value": 0.10344827920198441,
+      "id": 4
+    },
+    {
+      "value": 0.0,
+      "id": 5
+    },
+    {
+      "value": 0.0,
+      "id": 6
+    },
+    {
+      "value": 0.0,
+      "id": 7
+    },
+    {
+      "value": 4.0,
+      "id": 8
+    },
+    {
+      "value": 0.0,
+      "id": 9
+    }
+  ],
+  "data": {
+    "mode": 0,
+    "style": 0,
+    "currentVoice": 3,
+    "voices": [
+      {
+        "par_k": 4,
+        "par_l": 6,
+        "par_r": 1,
+        "par_p": 0,
+        "par_s": 3,
+        "par_a": 1
+      },
+      {
+        "par_k": 5,
+        "par_l": 6,
+        "par_r": 0,
+        "par_p": 0,
+        "par_s": 0,
+        "par_a": 0
+      },
+      {
+        "par_k": 1,
+        "par_l": 6,
+        "par_r": 0,
+        "par_p": 0,
+        "par_s": 0,
+        "par_a": 0
+      },
+      {
+        "par_k": 1,
+        "par_l": 3,
+        "par_r": 4,
+        "par_p": 3,
+        "par_s": 0,
+        "par_a": 0
+      }
+    ]
+  }
+}

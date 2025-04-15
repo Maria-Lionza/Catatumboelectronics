@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="630" height="380" viewBox="0 0 166.688 100.542">
+    <defs>
+        <linearGradient id="a">
+            <stop offset="0" stop-color="#fdfdfd"/>
+            <stop offset="1" stop-color="#fdfdfd"/>
+        </linearGradient>
+        <radialGradient gradientUnits="userSpaceOnUse" gradientTransform="matrix(.4218 0 0 .02673 -105.982 272.192)" r="69.827" fy="856.052" fx="285.494" cy="856.052" cx="285.494" id="c" xlink:href="#a"/>
+        <clipPath clipPathUnits="userSpaceOnUse" id="d">
+            <path fill="#fff" stroke="gray" stroke-width=".388" d="M4.03 289.485h23.689v11.965H4.03z"/>
+        </clipPath>
+        <clipPath clipPathUnits="userSpaceOnUse" id="b">
+            <path fill="#fff" stroke="gray" stroke-width=".388" d="M4.03 289.485h23.689v11.965H4.03z"/>
+        </clipPath>
+    </defs>
+    <g transform="translate(0 -196.458)">
+        <path d="M0 196.458h166.688V297H0z" fill-rule="evenodd"/>
+        <flowRoot transform="matrix(1.05833 0 0 .26458 -233.84 115.922)" style="line-height:125%" xml:space="preserve" font-style="normal" font-weight="400" font-size="10" font-family="sans-serif" letter-spacing="0" word-spacing="0" fill="#000" fill-opacity="1" stroke="none" stroke-width="1" stroke-linecap="butt" stroke-linejoin="miter" stroke-opacity="1">
+            <flowRegion>
+                <path d="M323.249 35.538h7.829v72.478h-7.829z"/>
+            </flowRegion>
+            <flowPara/>
+        </flowRoot>
+        <path d="M31.483 294.933l-17.042-.125-14.418.125-.878-3.47 33.217.125z" clip-path="url(#b)" transform="matrix(7.03648 0 0 1 -28.36 -.53)" fill="url(#c)" stroke="#8b8b8b" stroke-width=".397"/>
+        <path d="M0 291.993l31.75.123-.033 3.296H0z" clip-path="url(#d)" transform="matrix(7.03648 0 0 1.47097 -28.36 -137.542)"/>
+    </g>
+</svg>

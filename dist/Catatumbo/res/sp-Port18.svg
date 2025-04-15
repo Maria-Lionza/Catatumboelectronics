@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 5.08 5.08">
+    <defs>
+        <filter id="a" filterUnits="objectBoundingBox" x="0" y="0" width="1" height="1">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 1 0 0 0 0 1 0 0 0 0 1 0 0 0 1 0"/>
+        </filter>
+    </defs>
+    <path d="M2.54 4.98A2.442 2.442 0 0 1 .1 2.54 2.442 2.442 0 0 1 2.54.1a2.442 2.442 0 0 1 2.44 2.44 2.442 2.442 0 0 1-2.44 2.44" fill="#e6e6e6" stroke="#636663" stroke-width=".15"/>
+    <path d="M2.54 4.297A1.759 1.759 0 0 1 .783 2.54c0-.969.788-1.757 1.757-1.757.969 0 1.757.788 1.757 1.757 0 .969-.788 1.757-1.757 1.757" fill="#e6e6e6" stroke="#636663" stroke-width=".15"/>
+    <path d="M3.623 2.54a1.084 1.084 0 1 1-2.167 0 1.084 1.084 0 0 1 2.167 0"/>
+</svg>
