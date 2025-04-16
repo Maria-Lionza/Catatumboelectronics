@@ -1,7 +1,7 @@
 CATATUMBO electronics  
 2025 
 
-Puya 
+Puya Versión 2.1.1
 
 Secuenciador modular euclidiano polifónico de cuatro voces con interfaz gráfica generativa dinámica 
 
