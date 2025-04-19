@@ -1,3 +1,6 @@
+![Cruzao](https://github.com/user-attachments/assets/60aac12e-8b21-4303-adde-17f42ab678f1)
+
+
 CATATUMBO electronics  
 2025 
 
