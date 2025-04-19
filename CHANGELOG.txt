@@ -1,1 +1,0 @@
-  - CLK/RST thru added for easier chaining of multiple SNS
