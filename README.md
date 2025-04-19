@@ -87,9 +87,8 @@ Outputs
 
 Puya Preview:
 
-![Cruzao](https://github.com/user-attachments/assets/60aac12e-8b21-4303-adde-17f42ab678f1)
-![Prima](https://github.com/user-attachments/assets/e8176f57-c4e0-44c0-9ed5-9820f4ce08aa)
-![Pujao 1](https://github.com/user-attachments/assets/a02f7644-3dbb-4146-97b1-c037abb65f2c)
-![Pujao 2](https://github.com/user-attachments/assets/1f675530-12a3-4276-ac96-73b0cf910589)
-
+![Prima](https://github.com/user-attachments/assets/8860dc0f-0242-46bc-923c-d11e03e69d6e)
+![Cruzao](https://github.com/user-attachments/assets/9720e04c-511b-43c9-8190-31290e662dbd)
+![Pujao 1](https://github.com/user-attachments/assets/a8e71ee3-594a-431d-85fe-b1e0c7103835)
+![Pujao 2](https://github.com/user-attachments/assets/804b9979-94e1-4e81-a6cb-d4853332a496)
 
