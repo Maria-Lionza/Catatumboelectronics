@@ -41,5 +41,5 @@ DISTRIBUTABLES += res
 DISTRIBUTABLES += $(wildcard LICENSE*)
 DISTRIBUTABLES += $(wildcard presets*)
 
-RACK_DIR ?= ../..
+RACK_DIR ?= $()
 include $(RACK_DIR)/plugin.mk
