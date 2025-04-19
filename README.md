@@ -5,7 +5,7 @@ Puya Versión 2.1.1
 
 Secuenciador modular euclidiano polifónico de cuatro voces con interfaz gráfica generativa dinámica 
 
-Puya es un secuenciador euclidiano polifónico avanzado para VCV Rack 2, que ofrece 4 
+Puya es un secuenciador euclidiano polifónico avanzado para VCV Rack 2, compilado en Rack 2 versión 2.6.3, que ofrece 4 
 voces independientes y hasta 32 steps por voz. Diseñado para crear patrones rítmicos 
 complejos y evoluciones musicales dinámicas. 
 
