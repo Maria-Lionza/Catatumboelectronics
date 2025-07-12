@@ -1,4 +1,4 @@
-Demostración [Ensamble de Culo e' Puya de Curiepe, 4 voces]: https://drive.google.com/file/d/1CecR6O2b5bJ4rIqYWFKHopivE34DJa-A/view?usp=drive_link
+Demostración (Rack 2) [Ensamble de Culo e' Puya de Curiepe, 4 voces]: https://drive.google.com/file/d/1CecR6O2b5bJ4rIqYWFKHopivE34DJa-A/view?usp=drive_link
 
 Nomenclatura de collares euclidianos 1-32 steps, posición 0: https://drive.google.com/file/d/1FwlpG91Kuk1gEuP0kHfU8A4NSJ3NVVz_/view?usp=drive_link
 
